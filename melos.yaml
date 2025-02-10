@@ -1,0 +1,9 @@
+name: porto_arifin_workspace
+packages:
+  - apps/**
+  - packages/**
+sdkPath: .fvm/flutter_sdk
+
+scripts:
+  add_all_dev_dependencies:
+    run: melos exec -- flutter pub add --dev build_runner freezed get_it
