@@ -10,7 +10,6 @@
 .svn/
 ./.crashlytics
 migrate_working_dir/
-.fvm/
 
 # IntelliJ related
 *.iml

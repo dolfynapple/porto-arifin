@@ -1,9 +1,17 @@
-name: porto_arifin_workspace
+name: porto_workspace
+
+sdkPath: .fvm/flutter_sdk
+
 packages:
   - apps/**
   - packages/**
-sdkPath: .fvm/flutter_sdk
+
+command:
+   bootstrap:
+      usePubspecOverrides: true
+   flutterSdkVersion: ^3.6.2
 
 scripts:
-  add_all_dev_dependencies:
-    run: melos exec -- flutter pub add --dev build_runner freezed get_it
+  build:
+    run: |
+      dart pub run build_runner build --delete-conflicting-outputs

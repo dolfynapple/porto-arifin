@@ -1,4 +1,6 @@
-library core;
+library;
+
+export 'package:injectable/injectable.dart';
 
 /// A Calculator.
 class Calculator {

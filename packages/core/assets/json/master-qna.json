@@ -1,0 +1,295 @@
+[
+  {
+    "field": "maritalStatus",
+    "label": "Status Pernikahan",
+    "items": [
+      {
+        "value": "203",
+        "text": "Single"
+      },
+      {
+        "value": "4",
+        "text": "Menikah"
+      },
+      {
+        "value": "6",
+        "text": "Janda / Duda"
+      }
+    ]
+  },
+  {
+    "field": "jobType",
+    "items": [
+      {
+        "value": "79",
+        "text": "PROFESSIONAL"
+      },
+      {
+        "value": "212",
+        "text": "KARYAWAN"
+      },
+      {
+        "value": "80",
+        "text": "NON KARYAWAN"
+      }
+    ]
+  },
+  {
+    "field": "typeOfWork",
+    "label": "Tipe Pekerjaan / Sub Pekerjaan",
+    "items": [
+      {
+        "value": 86,
+        "text": "PROFESSIONAL"
+      },
+      {
+        "value": 229,
+        "text": "PARAMEDIS"
+      },
+      {
+        "value": 233,
+        "text": "GURU"
+      },
+      {
+        "value": 234,
+        "text": "PENERBANGAN"
+      },
+      {
+        "value": 84,
+        "text": "APARAT HUKUM"
+      },
+      {
+        "value": 235,
+        "text": "PERANGKAT DESA"
+      },
+      {
+        "value": 83,
+        "text": "KARYAWAN SWASTA NON BANK"
+      },
+      {
+        "value": 236,
+        "text": "KARYAWAN BANK"
+      },
+      {
+        "value": 82,
+        "text": "KARYAWAN PNS/BUMN/BUMD"
+      },
+      {
+        "value": 230,
+        "text": "KARYAWAN MEGA FINANCE"
+      },
+      {
+        "value": 85,
+        "text": "KARYAWAN CT CORP"
+      },
+      {
+        "value": 261,
+        "text": "BURUH/PRT"
+      },
+      {
+        "value": 237,
+        "text": "PENSIUNAN/PURNAWIRAWAN"
+      },
+      {
+        "value": 198,
+        "text": "SOPIR / KONDEKTUR / OJEK"
+      },
+      {
+        "value": 238,
+        "text": "BENGKEL"
+      },
+      {
+        "value": 239,
+        "text": "ADVERTISING"
+      },
+      {
+        "value": 89,
+        "text": "JASA"
+      },
+      {
+        "value": 196,
+        "text": "NELAYAN"
+      },
+      {
+        "value": 87,
+        "text": "PEDAGANG"
+      },
+      {
+        "value": 231,
+        "text": "PENGRAJIN TANGAN"
+      },
+      {
+        "value": 240,
+        "text": "ENTERTAINMENT / HIBURAN"
+      },
+      {
+        "value": 200,
+        "text": "PETANI"
+      },
+      {
+        "value": 232,
+        "text": "PETERNAK"
+      },
+      {
+        "value": 88,
+        "text": "PRODUKSI"
+      },
+      {
+        "value": 241,
+        "text": "SENIMAN"
+      },
+      {
+        "value": 242,
+        "text": "SEWA/RENT"
+      },
+      {
+        "value": 243,
+        "text": "TRANSPORTASI"
+      }
+    ]
+  },
+  {
+    "field": "spouseTypeOfWork",
+    "label": "Tipe Pekerjaan / Sub Pekerjaan",
+    "items": [
+      {
+        "value": 120,
+        "text": "PROFESSIONAL"
+      },
+      {
+        "value": 250,
+        "text": "PARAMEDIS"
+      },
+      {
+        "value": 254,
+        "text": "GURU"
+      },
+      {
+        "value": 255,
+        "text": "PENERBANGAN"
+      },
+      {
+        "value": 258,
+        "text": "APARAT HUKUM"
+      },
+      {
+        "value": 256,
+        "text": "PERANGKAT DESA"
+      },
+      {
+        "value": 245,
+        "text": "KARYAWAN SWASTA NON BANK"
+      },
+      {
+        "value": 257,
+        "text": "KARYAWAN BANK"
+      },
+      {
+        "value": 244,
+        "text": "KARYAWAN PNS/BUMN/BUMD"
+      },
+      {
+        "value": 251,
+        "text": "KARYAWAN MEGA FINANCE"
+      },
+      {
+        "value": 246,
+        "text": "KARYAWAN CT CORP"
+      },
+      {
+        "value": 261,
+        "text": "BURUH/PRT"
+      },
+      {
+        "value": 263,
+        "text": "PENSIUNAN/PURNAWIRAWAN"
+      },
+      {
+        "value": 262,
+        "text": "SOPIR / KONDEKTUR / OJEK"
+      },
+      {
+        "value": 264,
+        "text": "BENGKEL"
+      },
+      {
+        "value": 265,
+        "text": "ADVERTISING"
+      },
+      {
+        "value": 259,
+        "text": "JASA"
+      },
+      {
+        "value": 260,
+        "text": "NELAYAN"
+      },
+      {
+        "value": 247,
+        "text": "PEDAGANG"
+      },
+      {
+        "value": 252,
+        "text": "PENGRAJIN TANGAN"
+      },
+      {
+        "value": 266,
+        "text": "ENTERTAINMENT / HIBURAN"
+      },
+      {
+        "value": 248,
+        "text": "PETANI"
+      },
+      {
+        "value": 253,
+        "text": "PETERNAK"
+      },
+      {
+        "value": 248,
+        "text": "PRODUKSI"
+      },
+      {
+        "value": 267,
+        "text": "SENIMAN"
+      },
+      {
+        "value": 268,
+        "text": "SEWA/RENT"
+      },
+      {
+        "value": 269,
+        "text": "TRANSPORTASI"
+      }
+    ]
+  },
+  {
+    "field": "houseStatus",
+    "label": "Status Tempat Tinggal",
+    "items": [
+      {
+        "value": "54",
+        "text": "Milik sendiri sudah lunas"
+      },
+      {
+        "value": "205",
+        "text": "Milik sendiri belum lunas"
+      },
+      {
+        "value": "55",
+        "text": "Milik orang tua"
+      },
+      {
+        "value": "57",
+        "text": "Milik kantor"
+      },
+      {
+        "value": "58",
+        "text": "Milik saudara"
+      },
+      {
+        "value": "206",
+        "text": "Kontrak"
+      }
+    ]
+  }
+]

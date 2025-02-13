@@ -1,0 +1,1 @@
+enum TextFieldType { filled, rectangle, rounded }
